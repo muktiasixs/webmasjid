@@ -1,0 +1,11 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/api/activities/route": "app/api/activities/route.js",
+  "/api/donations/route": "app/api/donations/route.js",
+  "/api/activities/[id]/route": "app/api/activities/[id]/route.js",
+  "/masjid-admin-panel-2025/page": "app/masjid-admin-panel-2025/page.js",
+  "/masjid-admin-panel-2025/donations/page": "app/masjid-admin-panel-2025/donations/page.js",
+  "/masjid-admin-panel-2025/activities/page": "app/masjid-admin-panel-2025/activities/page.js",
+  "/masjid-admin-panel-2025/activities/[id]/edit/page": "app/masjid-admin-panel-2025/activities/[id]/edit/page.js"
+}

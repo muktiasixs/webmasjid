@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Program Renovasi Masjid",
+    "description": "Dana untuk renovasi dan perbaikan masjid，包括 места wudhu dan toilet",
+    "targetAmount": 50000000,
+    "currentAmount": 32500000,
+    "deadline": "2025-12-31",
+    "category": "renovasi",
+    "isActive": true,
+    "createdAt": "2025-11-13T22:27:27.247Z",
+    "updatedAt": "2025-11-13T22:27:27.247Z"
+  },
+  {
+    "id": 2,
+    "title": "Beasiswa Hafidz Qur'an",
+    "description": "Beasiswa untuk anak hafidz 30 juz yang kurang mampu",
+    "targetAmount": 30000000,
+    "currentAmount": 18000000,
+    "deadline": "2026-06-30",
+    "category": "pendidikan",
+    "isActive": true,
+    "createdAt": "2025-11-13T22:27:27.247Z",
+    "updatedAt": "2025-11-13T22:27:27.247Z"
+  },
+  {
+    "id": 3,
+    "title": "Program Santunan Bulanan",
+    "description": "Santunan bulanan untuk janda dan yatim di sekitar kompleks",
+    "targetAmount": 24000000,
+    "currentAmount": 14400000,
+    "deadline": "2026-01-31",
+    "category": "sosial",
+    "isActive": true,
+    "createdAt": "2025-11-13T22:27:27.247Z",
+    "updatedAt": "2025-11-13T22:27:27.247Z"
+  }
+]
