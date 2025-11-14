@@ -5,33 +5,6 @@ Dibangun menggunakan **Next.js**, **TypeScript**, **Tailwind CSS**, dan **Framer
 
 ---
 
-## ✨ Fitur Utama
-
-### 🏠 Hero Section
-- Banner selamat datang dengan animasi lembut dan elegan.
-
-### 🕋 Jadwal Waktu Sholat
-- Menampilkan **5 waktu salat harian** secara dinamis.
-
-### 📖 Tentang Masjid
-- Informasi sejarah, visi, dan misi Masjid Al-Ikhlas.
-
-### 📅 Kegiatan & Pengumuman
-- Menampilkan event rutin, kajian, dan program masjid.
-
-### 💰 Donasi Online
-- Sistem **infaq dan sedekah online** yang aman dan mudah digunakan.
-
-### 📍 Kontak & Lokasi
-- Informasi lengkap dengan **Google Maps integration**.
-
-### 📱 Responsive Design
-- Desain responsif dan nyaman di semua perangkat.
-
-### 🎞️ Smooth Animations
-- Menggunakan **Framer Motion** untuk animasi yang halus dan profesional.
-
----
 
 ## 🚀 Teknologi yang Digunakan
 
